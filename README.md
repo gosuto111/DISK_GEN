@@ -10,15 +10,15 @@ they are for a certain reason (aesthetic purposes mostly).
 
  
 ## Constraints:  
-- Combined playtime of album must not be over 1 hour
+- Combined playtime of album must not be over 1 hour  
 - Must be MP3s (you must modify yourself for something different)  
-- Final album size cannot be over 128 MB (will fail if larger)
+- Final album size cannot be over 128 MB (will fail if larger)  
  
  
 ## Usage:
 Download `preset.zip` - extract it's own folder  
-00: Change Email (Line 57) to your comment of choice  
-01: Place MP3s in `IMPORT/`, their filenames must be their track number (01.mp3, 02.mp3, etc).  
+00: Go to Line 54 of the script and make your metadata changes  
+01: Place MP3s in `IMPORT/`, their filenames must be their track number (01.mp3, 02.mp3, etc)  
 02: Run script (hint: `python3 ./make_disk.py --phase A --source ./IMPORT`)  ! THIS WILL DESTROY ALL METADATA  
 
 
