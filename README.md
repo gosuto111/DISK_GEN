@@ -6,7 +6,10 @@ change at-will for your use case. I am not responsible for you destroying your d
 This disk generation system is modeled after the collectable music disks found in Phantasy Star Online  
 as such, I have things configured a very speciifc way. If you don't like the constraints I have in place,  
 or you just feel like changing things, feel free. But it is my vision that it is used as I have it set up.  
- 
+
+![Disk Box Model](/Example.png)  
+^ Image as seen ingame ^
+
  
 ## Constraints:  
 - Combined playtime of album must not be over 1 hour
