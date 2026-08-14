@@ -1,11 +1,9 @@
 # DISK_GEN
 These scripts are how I generate my "music disks" I distribute online.  
-Script is pre-configured with my email address and it expects MP3 files,  
-change at-will for your use case. I am not responsible for you destroying your data.  
 
-This disk generation system is modeled after the collectable music disks found in Phantasy Star Online  
-as such, I have things configured a very speciifc way. If you don't like the constraints I have in place,  
-or you just feel like changing things, feel free. But it is my vision that it is used as I have it set up.  
+This disk generation system is modeled after the collectable music disks found in Phantasy Star Online.  
+All script configuration is done in the script itself, change it at will, but I have things set the way  
+they are for a certain reason (aesthetic purposes mostly).  
 
 ![Disk Box Model](/Example.png)  
 ^ Image as seen ingame ^
