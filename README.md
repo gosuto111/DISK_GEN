@@ -47,4 +47,4 @@ Download `preset.zip` - extract it's own folder
 │   │   │   └── cover.png
 ```
 
-![Directory as intended](/dir.png)  
+![Directory as intended](/dir.PNG)  
