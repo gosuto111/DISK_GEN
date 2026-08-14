@@ -46,3 +46,5 @@ Download `preset.zip` - extract it's own folder
 │   │   │   ├── checksums.sha256
 │   │   │   └── cover.png
 ```
+
+![Directory as intended](/dir.png)  
