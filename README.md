@@ -17,7 +17,7 @@ or you just feel like changing things, feel free. But it is my vision that it is
 ## Usage:
 Download `preset.zip` - extract it's own folder  
 00: Change Email (Line 57) to your comment of choice  
-01: Place MP3s in `IMPORT/`, their filenames must be their track number (01.mp3, 02.mp3, etc).
+01: Place MP3s in `IMPORT/`, their filenames must be their track number (01.mp3, 02.mp3, etc).  
 02: Run script (hint: `python3 ./make_disk.py --phase A --source ./IMPORT`)  ! THIS WILL DESTROY ALL METADATA  
 
 
