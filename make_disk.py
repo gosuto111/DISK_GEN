@@ -54,7 +54,7 @@ from mutagen.mp3 import MP3
 # global
 
 # email
-EMAIL_ADDRESS = "gosuto111@proton.me"
+EMAIL_ADDRESS = "0x91CC8963@proton.me"
 
 # template
 TEMPLATE_PATH = Path("template.png")
@@ -73,7 +73,7 @@ MAX_DISK_BYTES = 128_000_000  # 128 MB, decimal.
 DISK_PREFIX = "DISK"
 
 # Artist.
-ARTIST_NAME = "ゴースト"
+ARTIST_NAME = "エーフィ…？"
 
 
 # error
