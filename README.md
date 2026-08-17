@@ -28,5 +28,5 @@ Install dependencies:
 Run:  
     `python run_gui.py`
 
-Build:
+Build:  
     `build.bat`
